@@ -2,7 +2,7 @@
 ###Columns 
 Columns identify the activity and the subject number.
 
-There are 6 activities:
+There are 6 activities:        
 Laying          
 Sitting           
 Standing            
