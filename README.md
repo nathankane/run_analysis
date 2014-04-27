@@ -2,7 +2,7 @@
 ###Columns 
 Columns identify the activity and the subject number.
 
-There are 6 activities
+There are 6 activities:
 Laying
 Sitting
 Standing
@@ -16,7 +16,6 @@ There are 60 subjects.
 ###Rows
 Rows define the measurement and whether it was a mean or a standard deviations.
 
-All values within the table are the means of that value (row) and the corresponding subject and activity.
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
@@ -83,3 +82,5 @@ fBodyBodyGyroMag-mean()
 fBodyBodyGyroMag-std()     
 fBodyBodyGyroJerkMag-mean() 
 fBodyBodyGyroJerkMag-std() 
+
+All values within the table are the means of that value (row) and the corresponding subject and activity.
