@@ -42,3 +42,4 @@ for(i in 561:1){                               #removes all rows not related to 
 alldata<-cbind(subject,y,x)
 sp <- split(alldata[,3:68], list(alldata$Activity, alldata$Subject))
 TidyData<-sapply(sp, colMeans)                #creates Tidy Data set
+TidyData
